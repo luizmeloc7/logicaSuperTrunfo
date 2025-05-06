@@ -1,0 +1,2 @@
+# logicaSuperTrunfo
+Exercício Estácio
